@@ -26,5 +26,5 @@ For this assignment, the complete dataset of 768 observations was treated as the
 
 ## Files
 
-- `Part2_Diabetes.ipynb` - Complete Python analysis and visualizations
+- `Assignment2_Part2.ipynb` - Complete Python analysis and visualizations
 - `diabetes.csv` - Original diabetes dataset
