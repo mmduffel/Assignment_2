@@ -41,5 +41,5 @@ Used pandas to perform operations equivalent to:
 A `Km_Per_Year` feature was also created to estimate the average kilometers driven per year.
 
 ## Files
-- `Part1_UsedCars.ipynb` - Complete Python analysis
+- `Assignment2_Part1.ipynb` - Complete Python analysis
 - `train.csv` - Original used-car dataset
