@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment_2
 
 This repository contains two data analysis exercises completed using Python.
 
