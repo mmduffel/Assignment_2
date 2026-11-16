@@ -14,7 +14,7 @@ The target variable is `Price`, which represents the selling price of the used v
 - Identified missing values in the dataset.
 - Removed `New_Price` because approximately 86.06% of its values were missing.
 - Removed the unnecessary `Unnamed: 0` index column.
-- Imputed missing numerical values using the median or mode as appropriate.
+- Imputed missing values using the median for Mileage, Engine, and Power and the mode for Seats.
 
 ### B. Removing Units
 - Removed measurement units from `Mileage`, `Engine`, and `Power`.
