@@ -7,7 +7,7 @@ For this assignment, the complete dataset of 768 observations was treated as the
 ## Tasks Completed
 
 ### A. Random Sample and Glucose Comparison
-- Selected a reproducible random sample of 25 observations using a random seed.
+- Selected a reproducible random sample of 25 observations using a random seed of 42.
 - Calculated the mean and highest Glucose values for the sample.
 - Compared the sample statistics with the population statistics.
 - Created a chart to visualize the comparison.
